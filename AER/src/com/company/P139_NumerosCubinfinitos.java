@@ -52,7 +52,6 @@ public class P139_NumerosCubinfinitos {
                     }
                 }
 
-
             }
 
         } while (cubo != 0);
